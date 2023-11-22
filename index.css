@@ -1,13 +1,34 @@
 body {
 	background: white;
 }
-h4 {
+
+h1 {
 	text-align: center;
-}
-.B1 {
-	text-align: center;
-}
-.B2 {
-	text-align: center;
+	font-family: Vijaya;
 }
 
+h4 {
+	text-align: center;
+	font-size: 30px;
+}
+
+.Para {
+	margin: auto;
+	width: 25px;
+}
+
+.B1 {
+	text-align: center;
+	padding: 10px;
+	border-radius: 10px;
+	margin: 20px;
+	background-color: #ADD8E6;
+}
+
+.B2 {
+	text-align: center;
+	padding: 10px;
+	border-radius: 10px;
+	margin: 20px;
+	background-color: #ADD8E6
+}
